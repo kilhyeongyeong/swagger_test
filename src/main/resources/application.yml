@@ -1,0 +1,8 @@
+server:
+  port: 8001
+
+springdoc:
+  default-consumes-media-type: application/json
+  default-produces-media-type: application/json
+
+
